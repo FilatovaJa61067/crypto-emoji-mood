@@ -10,5 +10,6 @@ python main.py
 ```
 Get a random crypto mood each time! 😄
 
-📂 Data
+## 📂 Data
+
 Moods are stored in data/moods.json and can be easily edited.
